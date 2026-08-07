@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0273-integer-to-english-words](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0273-integer-to-english-words) |
 ## Array
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0027-remove-element) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
