@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0273-integer-to-english-words) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
