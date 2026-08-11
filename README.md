@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0273-integer-to-english-words) |
 ## String
 |  |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
