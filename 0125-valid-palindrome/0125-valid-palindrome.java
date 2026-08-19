@@ -1,14 +1,15 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        String cleaned = "";
+        StringBuilder sb = new StringBuilder();
 
         for (char c : s.toCharArray()) {
             if (Character.isLetterOrDigit(c)) {
-                cleaned += Character.toLowerCase(c);
+                sb.append(Character.toLowerCase(c));
             }
         }
 
-        String reversed = new StringBuilder(cleaned).reverse().toString();
+        String cleaned = sb.toString();
+        String reversed = sb.reverse().toString();
 
         return cleaned.equals(reversed);
     }
