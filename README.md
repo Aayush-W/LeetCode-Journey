@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [2029-stone-game-ix](https://github.com/Aayush-W/LeetCode-Journey/tree/master/2029-stone-game-ix) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
