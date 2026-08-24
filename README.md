@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0141-linked-list-cycle](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0409-longest-palindrome](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
@@ -68,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 ## Stack
 |  |
 | ------- |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0100-same-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
