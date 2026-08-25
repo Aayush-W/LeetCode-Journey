@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [2029-stone-game-ix](https://github.com/Aayush-W/LeetCode-Journey/tree/master/2029-stone-game-ix) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/Aayush-W/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -203,11 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -234,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
