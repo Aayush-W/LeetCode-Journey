@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [2029-stone-game-ix](https://github.com/Aayush-W/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
