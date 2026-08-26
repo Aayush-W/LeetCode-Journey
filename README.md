@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0415-add-strings) |
 | [1927-sum-game](https://github.com/Aayush-W/LeetCode-Journey/tree/master/1927-sum-game) |
