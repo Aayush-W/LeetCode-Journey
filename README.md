@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [2029-stone-game-ix](https://github.com/Aayush-W/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Minimax
 |  |
