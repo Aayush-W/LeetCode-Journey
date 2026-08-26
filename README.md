@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0509-fibonacci-number) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0202-happy-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
