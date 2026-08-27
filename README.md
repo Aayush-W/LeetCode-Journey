@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [2029-stone-game-ix](https://github.com/Aayush-W/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Database
 |  |
@@ -266,8 +270,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
