@@ -1,17 +1,23 @@
 class Solution {
     public int findDuplicate(int[] nums) {
 
-        HashSet<Integer> set = new HashSet<>();
+        // intersection point
+        int slow = nums[0];
+        int fast = nums[0];
 
-        for (int num : nums) {
+        do {
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        } while (slow != fast);
 
-            if (set.contains(num)) {
-                return num;
-            }
+        //entrance of cycle
+        slow = nums[0];
 
-            set.add(num);
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
         }
 
-        return -1;
+        return slow;
     }
 }
