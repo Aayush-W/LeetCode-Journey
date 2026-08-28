@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [2029-stone-game-ix](https://github.com/Aayush-W/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
