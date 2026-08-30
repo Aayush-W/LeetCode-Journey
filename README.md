@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0415-add-strings) |
 | [1927-sum-game](https://github.com/Aayush-W/LeetCode-Journey/tree/master/1927-sum-game) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
