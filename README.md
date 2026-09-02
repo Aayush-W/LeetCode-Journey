@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0409-longest-palindrome) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0383-ransom-note) |
 | [2029-stone-game-ix](https://github.com/Aayush-W/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
