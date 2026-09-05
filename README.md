@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0242-valid-anagram) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0169-majority-element) |
 ## Tree
 |  |
@@ -330,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Aayush-W/LeetCode-Journey/tree/master/3903-smallest-stable-index-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Aayush-W/LeetCode-Journey/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
